@@ -2,7 +2,10 @@ package problem_1;
 
 import java.util.HashMap;
 
-//两数之和
+/*
+* https://leetcode.cn/problems/two-sum/
+*/
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer,Integer> hashTable = new HashMap<Integer,Integer>() ;
