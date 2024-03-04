@@ -3,7 +3,7 @@ package problem_1;
 import java.util.HashMap;
 
 /*
-* https://leetcode.cn/problems/two-sum/
+* https://leetcode.cn/problems/two-sum
 */
 
 class Solution {
