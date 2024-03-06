@@ -1,0 +1,4 @@
+package tmp;
+
+class Solution {
+}
